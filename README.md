@@ -17,18 +17,25 @@ APIs to Use
 Requirements
 ● Java Web Application: Your application should be a Java web application running
 on Apache Tomcat server.
+
 ● Button Functionality: There should be a button on the webpage. When this button
 is pressed, your application should simultaneously make requests to the above three
 API endpoints.
+
 ● Display Results: Once all API responses are received, display the results in an
 HTML table on the same page. Ensure that the table is well-formatted and easy to
 read.
+
 ● Include Dog Image: For the dog images API, ensure that the actual image is
 displayed in the table.
+
+
 
 Second Step:
 ● Optimization: Your application should be optimized for speed, running the 3 API
 calls in parallel so the order of the table should result in different order
+
+
 
 Third Step:
 ● OOP: Object oriented programming should be implemented in your application
