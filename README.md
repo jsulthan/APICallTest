@@ -13,6 +13,7 @@ APIs to Use
 ○ API URL: https://dog.ceo/api/breeds/image/random
 3. Bitcoin Prices: Retrieve the current price of Bitcoin.
 ○ API URL: https://api.coindesk.com/v1/bpi/currentprice.json
+
 Requirements
 ● Java Web Application: Your application should be a Java web application running
 on Apache Tomcat server.
@@ -24,8 +25,10 @@ HTML table on the same page. Ensure that the table is well-formatted and easy to
 read.
 ● Include Dog Image: For the dog images API, ensure that the actual image is
 displayed in the table.
+
 Second Step:
 ● Optimization: Your application should be optimized for speed, running the 3 API
 calls in parallel so the order of the table should result in different order
+
 Third Step:
 ● OOP: Object oriented programming should be implemented in your application
